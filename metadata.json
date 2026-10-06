@@ -1,0 +1,6 @@
+{
+  "name": "EVIDENTIA AI",
+  "description": "Digital Evidence Integrity & Forensic Intelligence Platform — Every File Has a Fingerprint. Every Action Leaves a Trace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
